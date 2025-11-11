@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+
+<body>
+    <h1>Guy Dziubas</h1>
+    <img src="Profile Photo.jpeg" alt="תמונת פרופיל" width="120">
+
+    <h2>Summary</h2>
+    <p>Currently pursuing a B.A. in Information Systems Management at Ben-Gurion University, with a strong academic foundation in data analysis, databases, and visualization tools.</p>
+    <p>Passionate about data-driven decision making and leveraging analytical and technical skills to solve real-world problems.</p>
+    <p>Motivated, strategic thinker, detail-oriented, committed to excellence.</p>
+    <hr />
+
+    <h2>Education</h2>
+    <ul>
+        <li>BA in Information Systems Management, - Ben-Gurion University of the Negev. (2023 - Present)</li>
+        <li>Full High School Diploma, - "HaRishonim" High School, Herzliya. (2016-2018)</li>
+    </ul>
+    <hr />
+
+    <h2>Work Experience</h2>
+    <ul>
+        <li>
+            <h3>Business Analyst, Israel Ministry of Communications</h3>
+            <p>2025 - Present:</p>
+            <ul type="circle">
+                <li>Identifying opportunities to improve processes and implementing automation.</li>
+                <li>Using tools like Monday and Tableau to visualize insights and support decision-making processes.</li>
+        
+            </ul>
+        <li>
+            <h3>Security Guard & Team Leader, Israeli National Labor Court</h3>
+            <p>2022-2023:</p>
+            <ul type="circle">
+                <li>Managed security operations, supervised security teams, and coordinated between different security forces.</li>
+                <li>Provided emergency response and ensured public safety.</li>
+        
+            </ul>
+        </li>
+    </ul>
+    <hr />
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Tableau & Power BI. ⭐⭐⭐⭐⭐</li> 
+        <li>Programming Languages: JAVA, SQL, C#, Python. ⭐⭐⭐⭐</li>
+        <li>HTML, CSS, JAVA Script ⭐</li>
+    </ul>
+    <hr />
+
+    <h2>Awards and Certifications</h2>
+    <ul>
+        <li> "Analyzing and Visualizing Data with Microsoft Power BI." - Simplilearn. (2025)</li>
+        <li> "Data Analysis with Python." - IBM. (2025)</li>
+        <li> "The Winning Combination - Building an Investment Portfolio with Options in the U.S." - Reichman University.(2024)</li>
+    </ul>
+
+    <h2>Other</h2>
+    <ul>
+        <li><a href="./My Hobbies">Hobbies</a></li>
+        <li><a href="./contact">Contact Me</a></li>
+    </ul>
+
+    <footer>
+        <p>© Guy Dziubas. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
